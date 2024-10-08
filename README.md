@@ -1,4 +1,4 @@
-<b>About Me:</b>
+# About
 <br> <i> <b>Frontend Developer 🧑🏻‍💻</b></i>
 
 
