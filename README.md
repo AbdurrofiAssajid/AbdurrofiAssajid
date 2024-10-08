@@ -1,5 +1,5 @@
-About Me:
-<br> Frontend Developer 🧑🏻‍💻
+<b>About Me:</b>
+<br> <i> <b>Frontend Developer 🧑🏻‍💻</b></i>
 
 
 ## 🌐 Socials:
