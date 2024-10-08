@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>👋 Hello! I’m Rofi, a frontend developer 
+About Me:
+<br> Frontend Developer 🧑🏻‍💻
 
 
 ## 🌐 Socials:
