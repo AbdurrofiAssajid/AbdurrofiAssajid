@@ -1,4 +1,4 @@
-# About
+# Words of the day
 <br> <i> <b>Who says coding is just logic? Creativity is the secret sauce behind innovative solutions!</b></i>
 
 
