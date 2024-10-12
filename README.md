@@ -1,5 +1,5 @@
 # About
-<br> <i> <b>Frontend Developer 🧑🏻‍💻</b></i>
+<br> <i> <b>Who says coding is just logic? Creativity is the secret sauce behind innovative solutions!</b></i>
 
 
 ## 🌐 Socials:
